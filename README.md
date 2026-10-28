@@ -1,7 +1,7 @@
 # 📊 Business Project Analysis — Empirical Business Modeling & Operations Intelligence
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,50:F59E0B,100:FCD34D&customColorList=B45309,F59E0B,FCD34D&height=220&section=header&text=Business%20Project%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Empirical%20Business%20Modeling%20%26%20Operations%20Intelligence&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Business Project Analysis Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,50:F59E0B,100:FCD34D&customColorList=B45309,F59E0B,FCD34D&height=220&section=header&text=Business%20Project%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Empirical%20Business%20Modeling%20and%20Operations%20Intelligence&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Business Project Analysis Banner" />
 </p>
 
 <p align="center">
